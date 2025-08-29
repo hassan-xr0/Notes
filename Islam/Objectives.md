@@ -1,0 +1,3 @@
+- [ ] Seerah
+- [ ] Political Science {global aperture}
+- [ ]  exposure of the skill you are learning

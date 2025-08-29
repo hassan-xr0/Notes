@@ -1,0 +1,7 @@
+- [ ] ***Socket IO***
+- [x] [[React Router]]
+- [ ] **Redux**
+- [ ] ***Axios***
+- [ ] [[CCNA]]
+- [ ] a
+- [ ] ada

@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "877a671c1d5ae33d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fed3c6fe22c53a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3dcf7d040b3ada3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Objectives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objectives"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "015524bd9dd4cea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df8d9ac97ca2520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15bd4bf1ae790d95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e94ec1db6e0b0f40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4e4162b038709d83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "61414fec64d5e626",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bc65c3d4c4c7d526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5110321044922
+  },
+  "right": {
+    "id": "b29ed78910dbcaf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1792ff6b2a840edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108a7397021261c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ab0922044466f235",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS/CCNA 200-301/Ethernet LAN Switchinh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ethernet LAN Switchinh"
+            }
+          },
+          {
+            "id": "7b6092ebd4545072",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6a069637bf98ca0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS/Objectives.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Objectives"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3dcf7d040b3ada3",
+  "lastOpenFiles": [
+    "CS/Web Dev/Angular.md",
+    "CS/Cyber Security/Roadmap.md",
+    "CS/CCNA 200-301/9. IPv4 Header.md",
+    "CS/CCNA 200-301/2. Interfaces And Cables.md",
+    "CS/CCNA 200-301/4. CLI.md",
+    "CS/CCNA 200-301/3. OSI Model TCP IP suite.md",
+    "CS/CCNA 200-301/7-8 .IPv4 Addressing.md",
+    "CS/CCNA 200-301/5-6.Ethernet LAN Switchinh.md",
+    "attachments/Pasted image 20250826035433.png",
+    "attachments/Pasted image 20250826033631.png",
+    "attachments/Pasted Image 20250826030001_478.png",
+    "CS/CCNA 200-301/1.Network devies.md",
+    "Figures/Senate/John Fetterman.md",
+    "Islam/IMS/Self Esteem.md",
+    "John Fetterman.pdf",
+    "Figures/Senate",
+    "attachments/Pasted Image 20250816221859_361.png",
+    "Islam/IMS",
+    "attachments/Pasted Image 20250813214833_751.png",
+    "attachments/Pasted Image 20250813215201_369.png",
+    "attachments/Pasted Image 20250815221213_657.png",
+    "attachments/Pasted Image 20250814193313_033.png",
+    "attachments/Pasted Image 20250813214129_399.png",
+    "Excalidraw/Drawing 2025-08-13 20.48.01.excalidraw.md",
+    "What is network.md",
+    "attachments/Pasted Image 20250813220635_083.png",
+    "CS/Drawing 2025-08-13 21.14.34.excalidraw.md",
+    "Excalidraw",
+    "CS/CCNA 200-301/Drawing 2025-08-13 20.43.03.excalidraw.md",
+    "CS/CCNA 200-301/Ethernet.md",
+    "CS/CCNA 200-301/Untitled",
+    "Excalidraw/Drawing 2025-08-12 18.19.23.excalidraw.md",
+    "Untitled",
+    "conflict-files-obsidian-git.md",
+    "CS/CCNA 200-301/7. Eherne.md",
+    "CCNA Labs/Day 04 Lab - Basic Device Security.pkt",
+    "CCNA Labs/Day 03 Lab - OSI Model.pkt",
+    "CCNA Labs/Day 02 Lab - Connecting Devices.pkt",
+    "CCNA Labs",
+    "CS/Web Dev/React Router.md",
+    "CS/CCNA 200-301/5. Ethernet Lan Switching.md",
+    "Excalidraw/Drawing 2025-08-11 21.38.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-11 21.25.20.excalidraw.md",
+    "CCNA.md",
+    "Untitled.canvas",
+    "CS/CCNA 200-301/Untitled.canvas"
+  ]
+}

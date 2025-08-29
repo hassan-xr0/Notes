@@ -1,0 +1,71 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🇺🇸",
+      "LiBiohazard",
+      "LiFileCode2",
+      "LiAtom",
+      "LiFolderClosed"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "attachments": {
+    "iconName": "LiPackage",
+    "iconColor": "#ffffff"
+  },
+  "CS": {
+    "iconName": "LiCode2",
+    "iconColor": "#ffffff"
+  },
+  "CS/CCNA 200-301": {
+    "iconName": "LiRouter",
+    "iconColor": "#ffffff"
+  },
+  "CS/Cyber Security": {
+    "iconName": "LiBiohazard",
+    "iconColor": "#ff2600"
+  },
+  "CS/Web Dev": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#ffffff"
+  },
+  "Figures": {
+    "iconName": "LiFolder",
+    "iconColor": "#ffffff"
+  },
+  "Islam": {
+    "iconName": "LiFolderClosed",
+    "iconColor": "#fff5f5"
+  },
+  "CS/Web Dev/React Router.md": {
+    "iconName": "LiAtom",
+    "iconColor": "#00aaff"
+  },
+  "CS/Web Dev/Angular.md": "LiFileCode2",
+  "Figures/Senate": "🇺🇸"
+}

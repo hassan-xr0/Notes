@@ -1,0 +1,27 @@
+{
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
+}
