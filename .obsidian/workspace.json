@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Objectives.md",
+                "file": "CS/CCNA 200-301/9. IPv4 Header.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objectives"
+              "title": "9. IPv4 Header"
             }
           }
         ]
@@ -190,19 +190,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "c3dcf7d040b3ada3",
   "lastOpenFiles": [
-    "CS/Web Dev/Angular.md",
-    "CS/Cyber Security/Roadmap.md",
-    "CS/CCNA 200-301/9. IPv4 Header.md",
-    "CS/CCNA 200-301/2. Interfaces And Cables.md",
-    "CS/CCNA 200-301/4. CLI.md",
     "CS/CCNA 200-301/3. OSI Model TCP IP suite.md",
+    "CS/CCNA 200-301/9. IPv4 Header.md",
     "CS/CCNA 200-301/7-8 .IPv4 Addressing.md",
     "CS/CCNA 200-301/5-6.Ethernet LAN Switchinh.md",
+    "attachments/Pasted image 20250831183043.png",
+    "CS/Objectives.md",
+    "CS/Web Dev/Angular.md",
+    "CS/Cyber Security/Roadmap.md",
+    "CS/CCNA 200-301/2. Interfaces And Cables.md",
+    "CS/CCNA 200-301/4. CLI.md",
     "attachments/Pasted image 20250826035433.png",
     "attachments/Pasted image 20250826033631.png",
     "attachments/Pasted Image 20250826030001_478.png",
@@ -220,7 +223,6 @@
     "attachments/Pasted Image 20250813214129_399.png",
     "Excalidraw/Drawing 2025-08-13 20.48.01.excalidraw.md",
     "What is network.md",
-    "attachments/Pasted Image 20250813220635_083.png",
     "CS/Drawing 2025-08-13 21.14.34.excalidraw.md",
     "Excalidraw",
     "CS/CCNA 200-301/Drawing 2025-08-13 20.43.03.excalidraw.md",
