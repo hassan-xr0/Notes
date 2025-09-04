@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInfo",
       "🇺🇸",
       "LiBiohazard",
       "LiFileCode2",
-      "LiAtom",
-      "LiFolderClosed"
+      "LiAtom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,5 +67,9 @@
     "iconColor": "#00aaff"
   },
   "CS/Web Dev/Angular.md": "LiFileCode2",
-  "Figures/Senate": "🇺🇸"
+  "Figures/Senate": "🇺🇸",
+  "CS/CCNA 200-301/10-11. Routing.md": {
+    "iconName": "LiInfo",
+    "iconColor": "#fbff00"
+  }
 }
