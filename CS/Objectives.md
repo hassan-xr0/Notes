@@ -1,4 +1,4 @@
-- [ ] ***Socket IO***
+- [x] ***Socket IO***
 - [x] [[React Router]]
 - [ ] **Redux**
 - [ ] ***Axios***

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CCNA 200-301/12. Life of Packet.md",
+                "file": "Daily Task/2025-09-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Life of Packet"
+              "title": "2025-09-05"
             }
           }
         ]
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CCNA 200-301/Ethernet LAN Switchinh.md",
+                "file": "Islam/Hadiths/Imp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ethernet LAN Switchinh"
+              "title": "Outgoing links from Imp"
             }
           },
           {
@@ -166,17 +166,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Objectives.md",
+                "file": "Islam/Hadiths/Imp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Objectives"
+              "title": "Outline of Imp"
+            }
+          },
+          {
+            "id": "301bf3e719ecb175",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,51 +207,52 @@
   },
   "active": "a9f5ca77508bd576",
   "lastOpenFiles": [
+    "CS/CCNA 200-301/13. Subnetting.md",
+    "Daily Task/2025-09-05.md",
+    "Templates/To-do list.md",
+    "Daily Task/2025-9-4.md",
+    "Templates",
+    "Islam/Objectives.md",
+    "Islam/Hadiths/Imp.md",
+    "CS/Web Dev/Socket-IO.md",
     "CS/CCNA 200-301/5-6.Ethernet LAN Switchinh.md",
     "CS/CCNA 200-301/7-8 .IPv4 Addressing.md",
-    "CS/CCNA 200-301/12. Life of Packet.md",
     "CS/CCNA 200-301/9. IPv4 Header.md",
+    "CS/CCNA 200-301/12. Life of Packet.md",
     "CS/CCNA 200-301/10-11. Routing.md",
+    "CS/Cyber Security/Roadmap.md",
+    "Islam/Hadiths",
+    "2025-W36.md",
+    "CS/Web Dev/Socket-IO/README.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/src/node.js",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/src/index.js",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/src/common.js",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/src/browser.js",
+    "CS/Web Dev/Socket-IO/node_modules/engine.io-parser/build/cjs/contrib/base64-arraybuffer.d.ts",
+    "CS/Web Dev/Socket-IO/node_modules/engine.io-parser/build/cjs/contrib/base64-arraybuffer.js",
+    "CS/Web Dev/Socket-IO/node_modules/engine.io-parser/build/esm/contrib/base64-arraybuffer.d.ts",
+    "CS/Web Dev/Socket-IO/node_modules/engine.io-parser/build/esm/contrib/base64-arraybuffer.js",
+    "CS/Web Dev/Socket-IO/node_modules/http-errors/node_modules/statuses/README.md",
+    "CS/Web Dev/Socket-IO/node_modules/http-errors/node_modules/statuses/HISTORY.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/README.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io-adapter/node_modules/debug/README.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io/node_modules/debug/README.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io/node_modules/mime-db/README.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io/node_modules/mime-db/HISTORY.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io/node_modules/mime-types/README.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io/node_modules/mime-types/HISTORY.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io/node_modules/accepts/README.md",
+    "CS/Web Dev/Socket-IO/node_modules/socket.io/node_modules/accepts/HISTORY.md",
     "attachments/Pasted image 20250904101739.png",
-    "CS/CCNA 200-301/4. Commands.md",
-    "Islam/References.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Excalidraw/Drawing 2025-09-03 22.01.06.excalidraw.md",
-    "Excalidraw",
-    "CS/CCNA 200-301/2. Interfaces And Cables.md",
-    "Islam/Objectives.md",
-    "What is Routing.md",
     "attachments/Pasted image 20250901165108.png",
     "attachments/Pasted image 20250901165102.png",
     "attachments/Pasted image 20250901160047.png",
-    "CS/CCNA 200-301/3. OSI Model TCP IP suite.md",
     "attachments/Pasted image 20250831183043.png",
-    "CS/Objectives.md",
-    "CS/Web Dev/Angular.md",
-    "CS/Cyber Security/Roadmap.md",
     "attachments/Pasted image 20250826035433.png",
     "attachments/Pasted image 20250826033631.png",
     "attachments/Pasted Image 20250826030001_478.png",
-    "CS/CCNA 200-301/1.Network devies.md",
-    "Figures/Senate/John Fetterman.md",
-    "Islam/IMS/Self Esteem.md",
-    "John Fetterman.pdf",
-    "Figures/Senate",
     "attachments/Pasted Image 20250816221859_361.png",
-    "Islam/IMS",
     "attachments/Pasted Image 20250813214833_751.png",
-    "Excalidraw/Drawing 2025-08-13 20.48.01.excalidraw.md",
-    "What is network.md",
-    "CS/Drawing 2025-08-13 21.14.34.excalidraw.md",
-    "CS/CCNA 200-301/Drawing 2025-08-13 20.43.03.excalidraw.md",
-    "CS/CCNA 200-301/Ethernet.md",
-    "CS/CCNA 200-301/Untitled",
-    "Excalidraw/Drawing 2025-08-12 18.19.23.excalidraw.md",
-    "Untitled",
-    "conflict-files-obsidian-git.md",
-    "CCNA Labs/Day 04 Lab - Basic Device Security.pkt",
-    "CCNA Labs/Day 03 Lab - OSI Model.pkt",
     "Untitled.canvas",
     "CS/CCNA 200-301/Untitled.canvas"
   ]
