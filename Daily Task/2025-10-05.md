@@ -1,0 +1,6 @@
+- [ ] monkey-type
+- [ ] CCNA Class
+- [ ] Coding
+- [ ] Arabic Class
+- [ ] Center
+- [ ] Seerah Reading

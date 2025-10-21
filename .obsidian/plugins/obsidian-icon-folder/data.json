@@ -6,11 +6,10 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiArrowUpDown",
-      "LiInfo",
-      "🇺🇸",
-      "LiBiohazard",
-      "LiFileCode2"
+      "LiPencil",
+      "LiExcalidrawIcon",
+      "LiBinary",
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,43 +33,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "attachments": {
-    "iconName": "LiPackage",
-    "iconColor": "#ffffff"
-  },
+  "attachments": "LiImage",
   "CS": {
-    "iconName": "LiCode2",
-    "iconColor": "#ffffff"
+    "iconName": "LiBinary",
+    "iconColor": "#41ff33"
   },
-  "CS/CCNA 200-301": {
-    "iconName": "LiRouter",
-    "iconColor": "#ffffff"
-  },
-  "CS/Cyber Security": {
-    "iconName": "LiBiohazard",
-    "iconColor": "#ff2600"
-  },
-  "CS/Web Dev": {
-    "iconName": "LiAppWindow",
-    "iconColor": "#ffffff"
-  },
-  "Figures": {
-    "iconName": "LiFolder",
-    "iconColor": "#ffffff"
-  },
-  "Islam": {
-    "iconName": "LiFolderClosed",
-    "iconColor": "#fff5f5"
-  },
-  "CS/Web Dev/React Router.md": {
-    "iconName": "LiAtom",
-    "iconColor": "#00aaff"
-  },
-  "CS/Web Dev/Angular.md": "LiFileCode2",
-  "Figures/Senate": "🇺🇸",
-  "CS/CCNA 200-301/10-11. Routing.md": {
-    "iconName": "LiInfo",
-    "iconColor": "#fbff00"
-  },
-  "CS/Web Dev/Socket-IO.md": "LiArrowUpDown"
+  "Excalidraw": {
+    "iconName": "LiPencil",
+    "iconColor": "#f58e8e"
+  }
 }
