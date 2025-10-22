@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTerminal",
       "LiPencil",
       "LiExcalidrawIcon",
       "LiBinary",
@@ -41,5 +42,6 @@
   "Excalidraw": {
     "iconName": "LiPencil",
     "iconColor": "#f58e8e"
-  }
+  },
+  "CS/Vim.md": "LiTerminal"
 }

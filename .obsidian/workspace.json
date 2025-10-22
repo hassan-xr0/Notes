@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CCNA 200-301/4. Commands.md",
+                "file": "CS/Vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Commands"
+              "title": "Vim"
             }
           }
         ]
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5110321044922
+    "width": 225.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b29ed78910dbcaf1",
@@ -207,6 +208,7 @@
   "active": "13d2332c1c11b0d6",
   "lastOpenFiles": [
     "CS/CCNA 200-301/4. Commands.md",
+    "CS/Vim.md",
     "Daily Task/2025-10-21.md",
     "CS/Web Dev/React Router.md",
     "CS/Web Dev/Socket-IO.md",
@@ -239,7 +241,6 @@
     "CS/CCNA 200-301/13. Subnetting.md",
     "CS/CCNA 200-301/10-11. Routing.md",
     "Daily Task/2025-10-04.md",
-    "Daily Task/2025-10-03.md",
     "Templates",
     "Islam/Hadiths",
     "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/src/node.js",
