@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d00a7e6e2e8feda6",
+        "id": "9a9759b4e7247d42",
         "type": "tabs",
         "children": [
           {
-            "id": "13d2332c1c11b0d6",
+            "id": "1ea7a1471dbb2903",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,18 @@
               },
               "icon": "lucide-file",
               "title": "Vim"
+            }
+          },
+          {
+            "id": "5ed512be2c3c5427",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-22 15.05.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-22 15.05.19.excalidraw"
             }
           }
         ]
@@ -205,10 +217,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "13d2332c1c11b0d6",
+  "active": "1ea7a1471dbb2903",
   "lastOpenFiles": [
-    "CS/CCNA 200-301/4. Commands.md",
+    "Excalidraw/Drawing 2025-10-22 15.05.19.excalidraw.md",
     "CS/Vim.md",
+    "Daily Task/2025-10-22.md",
+    "CS/CCNA 200-301/4. Commands.md",
     "Daily Task/2025-10-21.md",
     "CS/Web Dev/React Router.md",
     "CS/Web Dev/Socket-IO.md",
@@ -239,8 +253,6 @@
     "CS/CCNA 200-301/2. Interfaces And Cables.md",
     "Daily Task/2025-10-05.md",
     "CS/CCNA 200-301/13. Subnetting.md",
-    "CS/CCNA 200-301/10-11. Routing.md",
-    "Daily Task/2025-10-04.md",
     "Templates",
     "Islam/Hadiths",
     "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/src/node.js",

@@ -32,3 +32,14 @@
 | / {your word} | with this you can find word in whole doc                                                         |
 | n             | find more of the word that is mentioned                                                          |
 | %             | allow us to move to closing braces/bracket                                                       |
+
+
+| __            | underscore go to the first word of the line  |
+| ------------- | -------------------------------------------- |
+| 0             | zero start of line                           |
+| $             | end of line                                  |
+| f {character} | this goes forward to the character you write |
+| F {character} | this is same but goes backward               |
+| t {character} | (forward) goes behind the word you wirte     |
+| T {character} | same just backward                           |
+|               |                                              |
