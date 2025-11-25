@@ -1,6 +1,6 @@
 {
   "folder": "Daily Task",
   "template": "Templates/To-do list",
-  "autorun": true,
+  "autorun": false,
   "format": "YYYY-MM-DD"
 }

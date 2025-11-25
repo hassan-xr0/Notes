@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiTerminal",
-      "LiPencil",
-      "LiExcalidrawIcon",
-      "LiBinary",
-      "LiImage"
+      "LiHandshake",
+      "LiRoute",
+      "LiCheckCheck",
+      "LiLayoutTemplate",
+      "LiTarget"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "attachments": "LiImage",
+  "attachments": {
+    "iconName": "LiImage",
+    "iconColor": "#8fb0ff"
+  },
   "CS": {
     "iconName": "LiBinary",
     "iconColor": "#41ff33"
@@ -43,5 +46,32 @@
     "iconName": "LiPencil",
     "iconColor": "#f58e8e"
   },
-  "CS/Vim.md": "LiTerminal"
+  "CS/Vim.md": {
+    "iconName": "LiTerminal",
+    "iconColor": "#00ff11"
+  },
+  "Figures": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#ffffff"
+  },
+  "CS/CCNA 200-301": {
+    "iconName": "LiRouter",
+    "iconColor": "#2970ff"
+  },
+  "CS/Web Dev": "LiAppWindow",
+  "CS/Cyber Security": {
+    "iconName": "LiBugPlay",
+    "iconColor": "#ff7b00"
+  },
+  "CS/Vim Keybindings.md": {
+    "iconName": "LiTerminal",
+    "iconColor": "#1eff00"
+  },
+  "Objectives.md": {
+    "iconName": "LiCheckCheck",
+    "iconColor": "#ff0000"
+  },
+  "Templates": "LiLayoutTemplate",
+  "CS/Web Dev/React Router.md": "LiRoute",
+  "CS/Web Dev/Socket-IO.md": "LiHandshake"
 }
