@@ -1,7 +1,0 @@
-- [x] ***Socket IO***
-- [x] [[React Router]]
-- [ ] **Redux**
-- [ ] ***Axios***
-- [ ] [[CCNA]]
-- [ ] Resume Builder
-  

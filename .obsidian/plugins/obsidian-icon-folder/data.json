@@ -3,14 +3,14 @@
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "native",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHandshake",
-      "LiRoute",
-      "LiCheckCheck",
-      "LiLayoutTemplate",
-      "LiTarget"
+      "RiBrainLine",
+      "RiBook2Fill",
+      "LiInfinity",
+      "RiShape2Line",
+      "BoBxsPackage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,48 +30,12 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "lucideIconPackType": "native",
+    "lucideIconPackType": "custom",
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "attachments": {
-    "iconName": "LiImage",
-    "iconColor": "#8fb0ff"
-  },
-  "CS": {
-    "iconName": "LiBinary",
-    "iconColor": "#41ff33"
-  },
-  "Excalidraw": {
-    "iconName": "LiPencil",
-    "iconColor": "#f58e8e"
-  },
-  "CS/Vim.md": {
-    "iconName": "LiTerminal",
-    "iconColor": "#00ff11"
-  },
-  "Figures": {
-    "iconName": "LiPersonStanding",
-    "iconColor": "#ffffff"
-  },
-  "CS/CCNA 200-301": {
-    "iconName": "LiRouter",
-    "iconColor": "#2970ff"
-  },
-  "CS/Web Dev": "LiAppWindow",
-  "CS/Cyber Security": {
-    "iconName": "LiBugPlay",
-    "iconColor": "#ff7b00"
-  },
-  "CS/Vim Keybindings.md": {
-    "iconName": "LiTerminal",
-    "iconColor": "#1eff00"
-  },
-  "Objectives.md": {
-    "iconName": "LiCheckCheck",
-    "iconColor": "#ff0000"
-  },
-  "Templates": "LiLayoutTemplate",
-  "CS/Web Dev/React Router.md": "LiRoute",
-  "CS/Web Dev/Socket-IO.md": "LiHandshake"
+  "03 - Utils": "BoBxsPackage",
+  "02 - Main": "RiPenNibFill",
+  "99 - Void": "RiShape2Line",
+  "01 - Archive": "RiBook2Fill"
 }

@@ -4,24 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "a9ddced1e609caf3",
+        "id": "7de1103d4964363d",
         "type": "tabs",
         "children": [
           {
-            "id": "5525a6a4dba7f762",
+            "id": "eef0de2027882c03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/To-do list.md",
+                "file": "03 - Utils/Socket-IO.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "To-do list"
+              "title": "Socket-IO"
+            }
+          },
+          {
+            "id": "693c1fc5b0c28094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Void/Templates/Main.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Main"
+            }
+          },
+          {
+            "id": "ae6b60a5a812d216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Brief Architecture Studio Website.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Brief Architecture Studio Website"
+            }
+          },
+          {
+            "id": "6b6ca831d773dea5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04 - Projects/Drawing 2026-01-14 18.48.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-14 18.48.04.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,36 +117,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "61414fec64d5e626",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "bc65c3d4c4c7d526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 278.5067558288574
   },
   "right": {
     "id": "b29ed78910dbcaf1",
@@ -199,69 +219,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5525a6a4dba7f762",
+  "active": "6b6ca831d773dea5",
   "lastOpenFiles": [
-    "CS/CCNA 200-301/5-6.Ethernet LAN Switchinh.md",
-    "CS/Vim.md",
-    "CS/Vim Keybindings.md",
-    "CS/Web Dev/React Router.md",
-    "CS/Web Dev/Angular.md",
-    "CS/Web Dev/Socket-IO.md",
-    "CS/Vs Code Extensions.md",
-    "CS/CCNA 200-301/1.Network devies.md",
-    "CS/CCNA 200-301/3. OSI Model TCP IP suite.md",
-    "CS/CCNA 200-301/2. Interfaces And Cables.md",
-    "CS/CCNA 200-301/10-11. Routing.md",
-    "CS/CCNA 200-301/Cisco Commands.md",
-    "CS/CCNA 200-301/DTP and VTP.md",
-    "CS/CCNA 200-301/9. IPv4 Header.md",
-    "CS/CCNA 200-301/7-8 .IPv4 Addressing.md",
-    "CS/CCNA 200-301/4. CLI.md",
-    "CS/CCNA 200-301/13.Subnetting.pdf",
-    "Objectives.md",
-    "Excalidraw/Drawing 2025-10-22 15.05.19.excalidraw.md",
-    "Excalidraw/2025-10-07.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-03 22.01.06.excalidraw.md",
-    "attachments/Pasted image 20250804180149.png",
-    "Templates/To-do list.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "CS/CCNA 200-301/13. Subnetting.md",
-    "Daily Task/2025-11-14.md",
-    "Daily Task/2025-11-13.md",
-    "Daily Task/2025-11-11.md",
-    "Untitled 1.base",
-    "Untitled 2.base",
-    "Untitled.base",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Templates",
-    "Islam/Hadiths",
-    "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/src/node.js",
-    "CS/Web Dev/Socket-IO/node_modules/socket.io-parser/node_modules/debug/src/index.js",
-    "attachments/Pasted image 20250904101739.png",
-    "attachments/Pasted image 20250901165108.png",
-    "attachments/Pasted image 20250901165102.png",
-    "attachments/Pasted image 20250901160047.png",
-    "attachments/Pasted image 20250831183043.png",
-    "attachments/Pasted image 20250826035433.png",
+    "Project Brief Architecture Studio Website.md",
+    "04 - Projects/Drawing 2026-01-14 18.48.04.excalidraw.md",
+    "04 - Projects",
+    "99 - Void/Templates/Main.md",
+    "99 - Void/Templates/CT.md",
+    "99 - Void/_excalidraw/2025-10-07.excalidraw.md",
+    "02 - Main/Web Fundamentals.md",
+    "03 - Utils/Covenant References.md",
+    "02 - Main/Seerah.md",
+    "03 - Utils/Vim bindings.md",
+    "04 - Critcal Thinking",
+    "03 - Utils/Socket-IO.md",
+    "03 - Utils/React Router.md",
+    "Videos",
+    "01 - Archive/CCNA/ex-IPv4 Addressing.md",
+    "01 - Archive/CCNA/ex-5-6.Ethernet LAN Switchinh.md",
+    "01 - Archive/CCNA/Subnetting.pdf",
+    "01 - Archive/CCNA/Routing.md",
+    "01 - Archive/CCNA/OSI Model TCP IP suite.md",
+    "01 - Archive/CCNA/Network devies.md",
+    "01 - Archive/CCNA/Interfaces And Cables.md",
+    "01 - Archive/CCNA/IPv4 Header.md",
+    "01 - Archive/CCNA/IPv4 Addressing.md",
+    "01 - Archive/CCNA/Ethernet Lan Switching.md",
+    "01 - Archive/CCNA/CLI.md",
+    "01 - Archive/CCNA",
+    "CCNA/ex-IPv4 Addressing.md",
+    "CCNA/ex-5-6.Ethernet LAN Switchinh.md",
+    "CCNA/Subnetting.pdf",
+    "CCNA/Routing.md",
+    "CCNA/OSI Model TCP IP suite.md",
+    "CCNA/Network devies.md",
+    "CCNA",
+    "01 - Archive",
+    "Fleeting",
+    "Research",
+    "99 - Void/_excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "99 - Void/_excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "99 - Void/_excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "99 - Void/_attachments/Pasted image 20260113015309.png",
+    "99 - Void/_attachments/Pasted image 20260113015151.png",
+    "99 - Void/_attachments/Pasted image 20260113014624.png",
+    "99 - Void/_attachments/Pasted image 20260113013436.png",
+    "99 - Void/_attachments/Pasted image 20260112233528.png",
+    "99 - Void/_attachments/Pasted image 20260112233345.png",
+    "99 - Void/_attachments/Pasted image 20260112233316.png",
     "Untitled.canvas",
     "CS/CCNA 200-301/Untitled.canvas"
   ]

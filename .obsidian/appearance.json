@@ -1,4 +1,9 @@
 {
-  "accentColor": "",
-  "theme": "obsidian"
+  "accentColor": "#5c8ff5",
+  "theme": "obsidian",
+  "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "cssTheme": "",
+  "showRibbon": true
 }

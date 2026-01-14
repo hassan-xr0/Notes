@@ -1,4 +1,0 @@
-- [ ] Seerah
-- [ ] Political Science {global aperture}
-- [ ]  exposure of the skill you are learning
-- [ ] Hazrat Jibrael As from Prophet SAW

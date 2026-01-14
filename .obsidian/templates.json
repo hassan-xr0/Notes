@@ -1,3 +1,5 @@
 {
-  "folder": "Templates"
+  "folder": "99 - Meta/Templates",
+  "dateFormat": "DD/MM/YYYY",
+  "timeFormat": "H:m A"
 }

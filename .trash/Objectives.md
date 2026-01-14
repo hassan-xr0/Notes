@@ -1,0 +1,6 @@
+- [ ] Seerah
+- [ ] Political Science {global aperture}
+- [ ]  exposure of the skill you are learning
+- [ ] Hazrat Jibrael As from Prophet SAW
+- [ ] self estemm in islam
+- [ ] self esteem in psycology
