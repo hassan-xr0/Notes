@@ -1,5 +1,5 @@
 {
-  "showLineNumber": true,
+  "showLineNumber": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "99 - Meta/_attachments",
@@ -13,5 +13,8 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "02 - Content",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "vimMode": false,
+  "tabSize": 2,
+  "strictLineBreaks": false
 }

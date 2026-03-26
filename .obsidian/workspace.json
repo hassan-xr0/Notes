@@ -4,68 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "7de1103d4964363d",
+        "id": "656c7722258dd954",
         "type": "tabs",
         "children": [
           {
-            "id": "eef0de2027882c03",
+            "id": "f45281c0145c7724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Utils/Socket-IO.md",
+                "file": "Physics Paper II.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Socket-IO"
+              "title": "Physics Paper II"
             }
           },
           {
-            "id": "693c1fc5b0c28094",
+            "id": "746b24383d60b11a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Void/Templates/Main.md",
+                "file": "02 - Main/MongoDB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "MongoDB"
             }
           },
           {
-            "id": "ae6b60a5a812d216",
+            "id": "f9873247d662ff16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Brief Architecture Studio Website.md",
+                "file": "Mongosh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Project Brief Architecture Studio Website"
-            }
-          },
-          {
-            "id": "6b6ca831d773dea5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "04 - Projects/Drawing 2026-01-14 18.48.04.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-14 18.48.04.excalidraw"
+              "title": "Mongosh"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,19 +191,9 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
-          },
-          {
-            "id": "e71f351341715488",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -232,48 +210,49 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b6ca831d773dea5",
+  "active": "f9873247d662ff16",
   "lastOpenFiles": [
-    "Project Brief Architecture Studio Website.md",
+    "02 - Main/MongoDB.md",
+    "Mongosh.md",
+    "99 - Meta/_attachments/Pasted image 20260327012315.png",
+    "99 - Meta/_attachments/Pasted image 20260327012305.png",
+    "99 - Meta/_attachments",
+    "99 - Meta",
+    "02 - Main/Seerah.md",
+    "Physics Paper II.md",
+    "01 - Archive/Angular.md",
     "04 - Projects/Drawing 2026-01-14 18.48.04.excalidraw.md",
-    "04 - Projects",
+    "03 - Utils/Vim bindings.md",
+    "02 - Main/Web Fundamentals.md",
+    "03 - Utils/Project Brief Architecture Studio Website.md",
+    "01 - Archive/CCNA/IPv4 Addressing.md",
+    "01 - Archive/CCNA/Network devies.md",
+    "01 - Archive/CCNA/ex-IPv4 Addressing.md",
     "99 - Void/Templates/Main.md",
+    "04 - Projects",
     "99 - Void/Templates/CT.md",
     "99 - Void/_excalidraw/2025-10-07.excalidraw.md",
-    "02 - Main/Web Fundamentals.md",
     "03 - Utils/Covenant References.md",
-    "02 - Main/Seerah.md",
-    "03 - Utils/Vim bindings.md",
     "04 - Critcal Thinking",
     "03 - Utils/Socket-IO.md",
     "03 - Utils/React Router.md",
     "Videos",
-    "01 - Archive/CCNA/ex-IPv4 Addressing.md",
     "01 - Archive/CCNA/ex-5-6.Ethernet LAN Switchinh.md",
     "01 - Archive/CCNA/Subnetting.pdf",
     "01 - Archive/CCNA/Routing.md",
     "01 - Archive/CCNA/OSI Model TCP IP suite.md",
-    "01 - Archive/CCNA/Network devies.md",
     "01 - Archive/CCNA/Interfaces And Cables.md",
     "01 - Archive/CCNA/IPv4 Header.md",
-    "01 - Archive/CCNA/IPv4 Addressing.md",
     "01 - Archive/CCNA/Ethernet Lan Switching.md",
     "01 - Archive/CCNA/CLI.md",
     "01 - Archive/CCNA",
     "CCNA/ex-IPv4 Addressing.md",
-    "CCNA/ex-5-6.Ethernet LAN Switchinh.md",
     "CCNA/Subnetting.pdf",
-    "CCNA/Routing.md",
-    "CCNA/OSI Model TCP IP suite.md",
-    "CCNA/Network devies.md",
     "CCNA",
     "01 - Archive",
-    "Fleeting",
-    "Research",
     "99 - Void/_excalidraw/Scripts/Downloaded/Set Grid.svg",
     "99 - Void/_excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "99 - Void/_excalidraw/Scripts/Downloaded/Auto Layout.svg",
@@ -282,8 +261,6 @@
     "99 - Void/_attachments/Pasted image 20260113014624.png",
     "99 - Void/_attachments/Pasted image 20260113013436.png",
     "99 - Void/_attachments/Pasted image 20260112233528.png",
-    "99 - Void/_attachments/Pasted image 20260112233345.png",
-    "99 - Void/_attachments/Pasted image 20260112233316.png",
     "Untitled.canvas",
     "CS/CCNA 200-301/Untitled.canvas"
   ]

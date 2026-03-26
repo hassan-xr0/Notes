@@ -7,6 +7,9 @@
       "isBold": true,
       "isItalic": false,
       "applyToSubfolders": true
+    },
+    "99 - Void": {
+      "backgroundColor": "#ff0000"
     }
   },
   "presets": {},

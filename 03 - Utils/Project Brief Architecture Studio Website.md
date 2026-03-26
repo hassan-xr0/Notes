@@ -2,7 +2,9 @@
 tags:
   - UI/UX
   - Client-Info
+aliases:
 ---
+- [ ] adsj
 ### Project Overview
 
 We are an architecture studio specializing in minimal and utilitarian design. We need a new website that reflects our design philosophy: clean, functional, and elegant. The website should showcase our portfolio, describe our services, and make it easy for potential clients to contact us.

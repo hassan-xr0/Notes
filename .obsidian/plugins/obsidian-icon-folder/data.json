@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiDatabase2Fill",
       "RiBrainLine",
       "RiBook2Fill",
       "LiInfinity",
-      "RiShape2Line",
-      "BoBxsPackage"
+      "RiShape2Line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "03 - Utils": "BoBxsPackage",
   "02 - Main": "RiPenNibFill",
   "99 - Void": "RiShape2Line",
-  "01 - Archive": "RiBook2Fill"
+  "01 - Archive": "RiBook2Fill",
+  "02 - Main/MongoDB.md": "RiDatabase2Fill"
 }
