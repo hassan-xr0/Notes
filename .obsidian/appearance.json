@@ -1,9 +1,11 @@
 {
-  "accentColor": "#5c8ff5",
+  "accentColor": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "interfaceFontFamily": "CaskaydiaMono Nerd Font",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono",
-  "cssTheme": "Obsidianite",
-  "showRibbon": true
+  "cssTheme": "Omarchy",
+  "showRibbon": false,
+  "showViewHeader": true,
+  "nativeMenus": false
 }

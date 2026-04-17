@@ -1,8 +1,8 @@
 {
-  "showLineNumber": false,
+  "showLineNumber": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "99 - Meta/_attachments",
+  "attachmentFolderPath": "99 - Void/_attachments",
   "trashOption": "local",
   "pdfExportSettings": {
     "includeName": true,
@@ -12,9 +12,10 @@
     "downscalePercent": 100
   },
   "newFileLocation": "folder",
-  "newFileFolderPath": "02 - Content",
+  "newFileFolderPath": "02 - Main",
   "readableLineLength": true,
-  "vimMode": false,
+  "vimMode": true,
   "tabSize": 2,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showInlineTitle": false
 }
