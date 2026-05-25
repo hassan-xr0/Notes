@@ -1,3 +1,4 @@
+# MongoDB
  - Its a no SQL document database which store data in JSON like documents.
  - Documents are composed of **field** and its **value** `"{ name"="John" }`.
  
@@ -13,7 +14,6 @@
 	2. **Consistency** - Its means MongoDB will always consistently follow its rules so that the data is valid all the time
 	3. **Isolation** - Its manages that transactions don't interfere with each other. If multiple people are doing transactions at the same time, they don’t mess each other up.
 	4. **Durability** -Once the transaction is done, it’s permanent. Even if the server crashes, the data is safe.
---- 
 ```js
 {               
 	_id: ObjectId("5099803df3f4948bd2f98391"),
@@ -43,4 +43,3 @@
 - The `_id` field is always the first field in the document.
 - In MongoDB, each document stored in a standard collection requires a uniqueid field that acts as a primary key.
 - `_id` subfield names cannot begin with a (`$`) symbol.
-- 

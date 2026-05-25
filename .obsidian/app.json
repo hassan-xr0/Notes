@@ -16,6 +16,6 @@
   "readableLineLength": true,
   "vimMode": true,
   "tabSize": 2,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showInlineTitle": false
 }
