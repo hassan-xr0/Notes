@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0e8df53cb29228",
+        "id": "aeb19357afc7c4de",
         "type": "tabs",
         "children": [
           {
-            "id": "2c118df3fe6beca6",
+            "id": "79a779e03d3a9738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Main/Postmodern Color.md",
+                "file": "03 - Utils/Project Brief Architecture Studio Website.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Postmodern Color"
+              "title": "Project Brief Architecture Studio Website"
             }
           }
         ]
@@ -79,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5067558288574,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b29ed78910dbcaf1",
@@ -158,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -183,8 +191,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c118df3fe6beca6",
+  "active": "79a779e03d3a9738",
   "lastOpenFiles": [
+    "03 - Utils/React Router.md",
+    "03 - Utils/Hadiths Study Material.md",
+    "03 - Utils/Covenant References.md",
+    "Postmodern Color.md",
+    "01 - Archive/Angular.md",
+    "02 - Main/Web Fundamentals.md",
+    "02 - Main/Self-Regulation.md",
+    "02 - Main/MongoDB.md",
+    "02 - Main/Khurooj (خروج).md",
+    "02 - Main/Post Modernism.md",
+    "02 - Main/Knowledge.md",
+    "02 - Main/Seerah.md",
+    "02 - Main/Mongosh-DB.md",
+    "02 - Main/Physics Paper-II.md",
     "99 - Void/_attachments/Pasted image 20260503053735.png",
     "99 - Void/_attachments/Pasted image 20260503053727.png",
     "99 - Void/_attachments/Pasted image 20260503053157.png",
@@ -194,13 +216,6 @@
     "99 - Void/_attachments/Pasted image 20260503053004.png",
     "99 - Void/_attachments/Pasted image 20260503051235.png",
     "99 - Void/_attachments/Pasted image 20260503051232.png",
-    "02 - Main/MongoDB.md",
-    "02 - Main/Postmodern Color.md",
-    "02 - Main/Knowledge.md",
-    "02 - Main/POST MODERNISM.md",
-    "02 - Main/Mongosh-DB.md",
-    "02 - Main/Physics Paper-II.md",
-    "02 - Main/Seerah.md",
     "02 - Main/POSTMODERN TECHNOLOGY.md",
     "02 - Main/Post Modernism Technology.md",
     "Excalidraw/Drawing 2026-04-15 00.57.07.excalidraw.md",
@@ -208,23 +223,16 @@
     "01 - Archive/CCNA/Ethernet Lan Switching.md",
     "99 - Meta/_attachments/Pasted image 20260415011558.png",
     "Excalidraw",
-    "99 - Meta/_attachments/Pasted image 20260415002429.png",
     "Mongosh.md",
     "99 - Meta/_attachments",
     "99 - Meta",
     "Physics Paper II.md",
-    "01 - Archive/Angular.md",
     "04 - Projects/Drawing 2026-01-14 18.48.04.excalidraw.md",
     "03 - Utils/Vim bindings.md",
-    "02 - Main/Web Fundamentals.md",
     "03 - Utils/Project Brief Architecture Studio Website.md",
     "01 - Archive/CCNA/IPv4 Addressing.md",
     "01 - Archive/CCNA/Network devies.md",
-    "01 - Archive/CCNA/ex-IPv4 Addressing.md",
-    "99 - Void/Templates/Main.md",
     "04 - Projects",
-    "99 - Void/Templates/CT.md",
-    "99 - Void/_excalidraw/2025-10-07.excalidraw.md",
     "04 - Critcal Thinking",
     "Videos",
     "01 - Archive/CCNA/Subnetting.pdf",

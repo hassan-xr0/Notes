@@ -1,3 +1,8 @@
+---
+tags:
+  - Postmodernism
+---
+
 # Postmodern Colors 
 Postmodernism **deliberately rejects** having one fixed color, because having one "correct" color would be a rule. Postmodern science has no color as its a movement where technology (Digital)  is same as postmodern colors but it also includes glitched color
 ![[Pasted image 20260503053727.png]]

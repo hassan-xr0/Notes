@@ -11,7 +11,6 @@ https://excalidraw.com/#json=OhJv8c_oTZuDns6nofA0b,DIiRKuXDRrAuyYmKE9LopA
 - Symptoms 
 - Disadvantages 
 - Advantages
-
 # Identify Keyword
 ![[Pasted image 20260415002429.png]]
 - Modernism limitations
@@ -27,6 +26,7 @@ https://excalidraw.com/#json=OhJv8c_oTZuDns6nofA0b,DIiRKuXDRrAuyYmKE9LopA
 - Bruno Latour → science as social construction
 - Thomas Kuhn → paradigm shifts  e
 # Background Info :
+
 Its has no definition
 Post-Modernism was emerged in mid 20th century reaction against limitation and failures of modernism. Modernism which was dominated in early 20th century believed in single universal truth, progress and rationality. Modernism in simple can be referred as everything has fixed meaning. On the other hand Post Modernism challenges the idea of single and universal truth, and fixed meaning. They believed that different culture, group, and individuals can have conflicting multiple Truths. It rejects fixed meaning and embraces the idea that interpretation are subjective (change with individual views, meaning of word or a truth changes with person view ) and context depended 
 

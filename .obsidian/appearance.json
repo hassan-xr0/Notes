@@ -1,11 +1,12 @@
 {
-  "accentColor": "#5cf596",
+  "accentColor": "#9edaff",
   "theme": "obsidian",
-  "interfaceFontFamily": "CaskaydiaMono Nerd Font",
-  "textFontFamily": "Inter",
-  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono",
-  "cssTheme": "Aura",
+  "interfaceFontFamily": "Iosevka Nerd Font",
+  "textFontFamily": "Inter,Iosevka Nerd Font",
+  "monospaceFontFamily": "SF Mono",
+  "cssTheme": "calm nights",
   "showRibbon": false,
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 16
 }

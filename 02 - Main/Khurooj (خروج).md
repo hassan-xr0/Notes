@@ -1,0 +1,1 @@
+Many people quote the hadith in which Prophet SAW said do not rebel against ruler even if he is n African (Abyssinian) slave or servant, even if he take your **مال** etc but they forgot that the 

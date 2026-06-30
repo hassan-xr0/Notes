@@ -2,11 +2,11 @@
 
 .theme-dark, .theme-light {
   /* Core colors */
-  --background-primary: #1a1b26;
-  --background-primary-alt: #1a1b26;
-  --background-secondary: #1a1b26;
-  --background-secondary-alt: #1a1b26;
-  --text-normal: #a9b1d6;
+  --background-primary: #0B0C16;
+  --background-primary-alt: #0B0C16;
+  --background-secondary: #0B0C16;
+  --background-secondary-alt: #0B0C16;
+  --text-normal: #ddf7ff;
 
   /* Selection colors */
   --text-selection: #7aa2f7;
@@ -16,7 +16,7 @@
 
   /* Semantic heading colors */
   --text-title-h1: #f7768e;
-  --text-title-h2: #9ece6a;
+  --text-title-h2: #30d158;
   --text-title-h3: #e0af68;
   --text-title-h4: #7aa2f7;
   --text-title-h5: #ad8ee6;
@@ -30,8 +30,8 @@
   --interactive-accent-hover: #7aa2f7;
 
   /* Muted text */
-  --text-muted: color-mix(in srgb, #a9b1d6 70%, transparent);
-  --text-faint: color-mix(in srgb, #a9b1d6 55%, transparent);
+  --text-muted: color-mix(in srgb, #ddf7ff 70%, transparent);
+  --text-faint: color-mix(in srgb, #ddf7ff 55%, transparent);
 
   /* Code */
   --code-normal: #449dab;
@@ -39,7 +39,7 @@
   /* Errors and success */
   --text-error: #f7768e;
   --text-error-hover: #f7768e;
-  --text-success: #9ece6a;
+  --text-success: #30d158;
 
   /* Tags */
   --tag-color: #449dab;
@@ -50,7 +50,7 @@
   --graph-node: #7aa2f7;
   --graph-node-focused: #7aa2f7;
   --graph-node-tag: #449dab;
-  --graph-node-attachment: #9ece6a;
+  --graph-node-attachment: #30d158;
 }
 
 /* Headers */
@@ -68,7 +68,7 @@
 
 /* Syntax highlighting */
 .cm-s-obsidian span.cm-keyword { color: #f7768e; }
-.cm-s-obsidian span.cm-string { color: #9ece6a; }
+.cm-s-obsidian span.cm-string { color: #30d158; }
 .cm-s-obsidian span.cm-number { color: #e0af68; }
 .cm-s-obsidian span.cm-comment { color: #444b6a; }
 .cm-s-obsidian span.cm-operator { color: #7aa2f7; }
