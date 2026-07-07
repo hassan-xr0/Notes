@@ -1,0 +1,9 @@
+- [ ] Study Session 1 
+	- [ ] I
+	- [ ] II
+- [ ] Study Session 2 
+	- [ ] I
+	- [ ] II
+- [ ] Study Session 3
+	- [ ] I
+	- [ ] II

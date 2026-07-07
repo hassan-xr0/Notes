@@ -1,0 +1,5 @@
+- [ ] Fajr
+- [ ] Duhr
+- [ ] Asr
+- [ ] Magrib
+- [ ] Isha

@@ -1,0 +1,19 @@
+- [ ]  Study Session 1
+	- [ ] I 
+	- [ ] II
+- [ ]  Study Session 2
+	- [ ] I
+	- [ ] II
+- [ ]  Study Session 3
+	- [ ] I
+	- [ ] II
+- [ ]  Study Session 4
+	- [ ] I
+	- [ ] II
+- [ ] CT-Class
+- [ ] IMS Task Research
+- [ ] Fajr
+- [ ] Zuhr 
+- [ ] Asr
+- [ ] Magrib
+- [ ] Isha

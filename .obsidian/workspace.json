@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb19357afc7c4de",
+        "id": "90536fcbfe68419c",
         "type": "tabs",
         "children": [
           {
-            "id": "79a779e03d3a9738",
+            "id": "daac5837f2e57148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Utils/Project Brief Architecture Studio Website.md",
+                "file": "Tasks/Daily/2026-07-07.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Project Brief Architecture Studio Website"
+              "title": "2026-07-07"
             }
           }
         ]
@@ -51,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -159,16 +150,6 @@
               "icon": "lucide-list",
               "title": "Outline of Post Modernism Technology"
             }
-          },
-          {
-            "id": "301bf3e719ecb175",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
           }
         ],
         "currentTab": 3
@@ -191,54 +172,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "79a779e03d3a9738",
+  "active": "daac5837f2e57148",
   "lastOpenFiles": [
-    "03 - Utils/React Router.md",
-    "03 - Utils/Hadiths Study Material.md",
-    "03 - Utils/Covenant References.md",
+    "Tasks/Untitled.md",
+    "Tasks/Daily/2026-07-07.md",
+    "Tasks/Daily/2026-07-06.md",
+    "Void/Templates/study-session.md",
+    "Void/Templates/Main.md",
+    "Void/Templates/Prayers-list.md",
+    "Tasks/Daily/Untitled.md",
+    "Main/CT-B5/31-4-2026.md",
+    "Clippings/Thought Building  Post Modernism  Critical Thinking Batch 5  31st May 2026.md",
+    "Main/Postmodern Color.md",
+    "Clippings",
+    "Main/Post Modernism.md",
+    "Void/Templates/Notes.md",
+    "Void/Templates/List.md",
+    "Untitled.md",
+    "Main/CT-B5",
+    "Main/MongoDB.md",
+    "Main/Mongosh-DB.md",
+    "Main/Knowledge.md",
+    "Main/Khurooj (خروج).md",
+    "Main/Covenant References.md",
+    "Tasks/Daily",
+    "Untitled 1",
+    "Socket-IO.md",
+    "Tasks",
+    "Project Brief Architecture Studio Website.md",
+    "React Router.md",
+    "Hadiths Study Material.md",
+    "Covenant References.md",
     "Postmodern Color.md",
-    "01 - Archive/Angular.md",
-    "02 - Main/Web Fundamentals.md",
-    "02 - Main/Self-Regulation.md",
-    "02 - Main/MongoDB.md",
-    "02 - Main/Khurooj (خروج).md",
-    "02 - Main/Post Modernism.md",
-    "02 - Main/Knowledge.md",
-    "02 - Main/Seerah.md",
-    "02 - Main/Mongosh-DB.md",
-    "02 - Main/Physics Paper-II.md",
-    "99 - Void/_attachments/Pasted image 20260503053735.png",
-    "99 - Void/_attachments/Pasted image 20260503053727.png",
-    "99 - Void/_attachments/Pasted image 20260503053157.png",
-    "99 - Void/_attachments/Pasted image 20260503053142.png",
-    "99 - Void/_attachments/Pasted image 20260503053134.png",
-    "99 - Void/_attachments/Pasted image 20260503053034.png",
-    "99 - Void/_attachments/Pasted image 20260503053004.png",
-    "99 - Void/_attachments/Pasted image 20260503051235.png",
-    "99 - Void/_attachments/Pasted image 20260503051232.png",
-    "02 - Main/POSTMODERN TECHNOLOGY.md",
-    "02 - Main/Post Modernism Technology.md",
-    "Excalidraw/Drawing 2026-04-15 00.57.07.excalidraw.md",
-    "01 - Archive/CCNA/ex-5-6.Ethernet LAN Switchinh.md",
-    "01 - Archive/CCNA/Ethernet Lan Switching.md",
+    "Archive/Angular.md",
+    "Void/_attachments/Pasted image 20260503053735.png",
+    "Void/_attachments/Pasted image 20260503053727.png",
+    "Void/_attachments/Pasted image 20260503053157.png",
+    "Void/_attachments/Pasted image 20260503053142.png",
+    "Void/_attachments/Pasted image 20260503053134.png",
+    "Void/_attachments/Pasted image 20260503053034.png",
+    "Void/_attachments/Pasted image 20260503053004.png",
+    "Void/_attachments/Pasted image 20260503051235.png",
+    "Void/_attachments/Pasted image 20260503051232.png",
     "99 - Meta/_attachments/Pasted image 20260415011558.png",
     "Excalidraw",
-    "Mongosh.md",
     "99 - Meta/_attachments",
     "99 - Meta",
-    "Physics Paper II.md",
-    "04 - Projects/Drawing 2026-01-14 18.48.04.excalidraw.md",
-    "03 - Utils/Vim bindings.md",
-    "03 - Utils/Project Brief Architecture Studio Website.md",
-    "01 - Archive/CCNA/IPv4 Addressing.md",
-    "01 - Archive/CCNA/Network devies.md",
     "04 - Projects",
     "04 - Critcal Thinking",
-    "Videos",
-    "01 - Archive/CCNA/Subnetting.pdf",
-    "01 - Archive/CCNA",
-    "CCNA/Subnetting.pdf",
-    "CCNA",
     "Untitled.canvas",
     "CS/CCNA 200-301/Untitled.canvas"
   ]

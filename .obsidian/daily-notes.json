@@ -1,6 +1,6 @@
 {
-  "folder": "Daily Task",
-  "template": "Templates/To-do list",
+  "folder": "Tasks/Daily",
+  "template": "Void/Templates/nest-list",
   "autorun": false,
   "format": "YYYY-MM-DD"
 }
